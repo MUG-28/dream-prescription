@@ -34,6 +34,6 @@ https://modao.cc/proto/w1bCGjktditjodJtNzxkb/sharing?view_mode=device&screen=rbp
 
 - 姓名：YuFan Yang
 - 教育： 信息与计算科学 本科 27届
-- 联系方式：3123692672[at]qq[dot]com (为防止被爬虫麻请手动替换 [at] 为 @，[dot] 为 . )
+- 联系方式：3123692672[at]qq[dot]com (为防止被爬虫烦请手动替换 [at] 为 @，[dot] 为 . )
 
 > 本项目为 AI 产品经理作品集项目，旨在验证端侧 AI 模型在垂直健康领域的交互可行性。
